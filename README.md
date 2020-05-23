@@ -1,5 +1,4 @@
-# Server-Client Problem Using IPC
-Server-Client Problem Using Inter-Process Communication (IPC)
+# Server-Client Problem Using Inter-Process Communication (IPC)
 
 This repository simulates a server and a client processes communicating together. The client sends a string to the server, which in turn accepts it, converts lower case letters to upper case ones and vise versa, then sends it back to the client. Multiple clients can attempt to communicate with the server simultaneously.
 
