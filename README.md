@@ -5,7 +5,7 @@ This repository simulates a server and a client processes communicating together
 
 The processes communicate through inter-process-communication (IPC). Two approaches are implemented:
 
-    Using message queues
-    Using shared memory and semaphores
+- Using message queues
+- Using shared memory and semaphores
 
 It is assumed that there is only one server and which always TERMINATES LAST; after all clients terminate.
